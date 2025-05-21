@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "น้ำอัดลม 🥤",
+      "price": 20,
+      "quantity": 15,
+      "gpio_pin": 0,
+      "image": "https://www.suez.com/-/media/suez-shared/images/mother-pages/goutte-eau-etang-unsplash.webp?h=360&w=425&v=1&d=20240624T065728Z&format=webp&crop=1&hash=4FB56A933EE0D72871CB61F9E5D576E2"
+    },
+    {
+      "id": 2,
+      "name": "ช็อคโกแลต 🍫",
+      "price": 15,
+      "quantity": 14,
+      "gpio_pin": 0,
+      "image": "https://www.suez.com/-/media/suez-shared/images/mother-pages/goutte-eau-etang-unsplash.webp?h=360&w=425&v=1&d=20240624T065728Z&format=webp&crop=1&hash=4FB56A933EE0D72871CB61F9E5D576E2"
+    },
+    {
+      "id": 3,
+      "name": "P1",
+      "price": 10,
+      "gpio_pin": 0,
+      "image": "CX",
+      "quantity": 15
+    },
+    {
+      "id": 4,
+      "name": "P2",
+      "price": 10,
+      "gpio_pin": 0,
+      "image": "CC",
+      "quantity": 15
+    },
+    {
+      "id": 5,
+      "name": "C1",
+      "price": 10,
+      "gpio_pin": 0,
+      "image": "12",
+      "quantity": 15
+    },
+    {
+      "id": 6,
+      "name": "C1",
+      "price": 20,
+      "gpio_pin": 0,
+      "image": "",
+      "quantity": 15
+    }
+  ],
+  "mappings": {
+    "10": 0,
+    "11": 5,
+    "12": 3,
+    "13": 5,
+    "success": true,
+    "gpio": "bulk",
+    "productId": 1,
+    "bulk": 2
+  },
+  "motorMappings": {
+    "10": 1,
+    "11": 3,
+    "12": 3,
+    "13": 3
+  }
+}
